@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! 👋
 
-<!--
-**ron-aarts/ron-aarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn: ronaarts1988](https://img.shields.io/badge/-Ron%20Aarts-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronaarts88/)](https://www.linkedin.com/in/ronaarts88/)
 
-Here are some ideas to get you started:
+Hello! My name is Ron Aarts. I am currently a Network Solutions Architect at Government Employees Health Association (GEHA for short). You might have seen our company logo in the Kansas City Chiefs stadium!
+I'm using GitHub to keep track of my personal Network Automation projects and to log my journey as I develop my Network Automation knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Here is some information about me:
+
+- 🔭 I’m currently working on a cool project with [Du'An Lightfoot](https://github.com/labeveryday/labeveryday/blob/main/README.md). Stay tuned for more info!
+- 🌱 I’m currently studying for my Cisco Certified DevNet Associate
+- 💬 Ask me about anything related to Networking or Network Automation
+- 📫 How to reach me: Send me a message on [LinkedIn](https://www.linkedin.com/in/ronaarts88/)
+- ⚡ Fun fact: I love tinkering with just about any tech!
+
+<br />
